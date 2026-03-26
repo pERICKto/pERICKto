@@ -1,3 +1,3 @@
-Hello, my name is Erick!
+Hi, my name is Erick!
 
-![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+![GitHub Stats](https://ghstats.dev/api/card?username=pERICKto)
