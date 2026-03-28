@@ -1,8 +1,7 @@
 Hi, my name is Erick!
 
 
-
-[![GitHub Stats](https://ghstats.dev/api/card?username=pERICKto&theme=nostromo&hide=issues%2Cavg%2Cfollowers&order=stars%2Ccommits%2Cprs%2Cweek%2Ctrend%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cstreak)](https://github.com/pERICKto/GitHub-profile-stats.git)
+[![GitHub Stats](http://localhost:3000/api/card?username=pERICKto&theme=nostromo)](https://github.com/rowkav09/GitHub-profile-stats)
 
 
 
