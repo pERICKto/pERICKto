@@ -1,7 +1,8 @@
 Hi, my name is Erick!
 
 
-[![GitHub Stats](http://localhost:3000/api/card?username=pERICKto&theme=nostromo)](https://github.com/rowkav09/GitHub-profile-stats)
+
+[![GitHub Stats](http://localhost:3000/api/card?username=pERICKto&theme=nostromo)](https://github.com/pERICKto/GitHub-profile-stats.git)
 
 
 
